@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-This is a test page. Does it work?
+This is a test.
